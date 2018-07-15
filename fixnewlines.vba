@@ -1,3 +1,5 @@
+
+' Select the data table in Excel before you run this.
 Sub FixNewLines()
 
     Dim cel As Range
